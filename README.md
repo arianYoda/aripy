@@ -41,7 +41,7 @@ Generate passwords using:
 
 The generator can create passwords without repeating characters.
 
-### 🎮 Rock Paper Scissors
+###  Rock Paper Scissors
 Two game modes:
 - Play against the computer
 - Play with two human players
