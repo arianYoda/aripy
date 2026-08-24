@@ -1,10 +1,10 @@
-# Python Multi-Tool 🐍
+# Python Multi-Tool 
 
 A command-line Python toolkit that combines several small utilities and games into one application.
 
 ## Features
 
-### 🧮 Calculator
+###  Calculator
 - Addition
 - Subtraction
 - Multiplication
@@ -13,26 +13,26 @@ A command-line Python toolkit that combines several small utilities and games in
 - Floor division
 - Power
 
-### ⚖️ BMI Calculator
+###  BMI Calculator
 Calculates BMI based on weight and height and displays the BMI category.
 
-### 📏 Unit Converter
+###  Unit Converter
 - Length conversion
 - Weight conversion
 - Area conversion
 
-### 🌡️ Temperature Converter
+###  Temperature Converter
 - Celsius ↔ Fahrenheit
 - Celsius ↔ Kelvin
 
-### 🎂 Age Calculator
+###  Age Calculator
 - Gregorian birthday
 - Persian (Jalali) birthday
 - Calculates age in years, months, and days
 - Displays Gregorian and Persian dates
 - Calculates the approximate time until the next birthday
 
-### 🔐 Password Generator
+###  Password Generator
 Generate passwords using:
 - Letters
 - Numbers
